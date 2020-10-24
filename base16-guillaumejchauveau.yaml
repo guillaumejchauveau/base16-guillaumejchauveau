@@ -8,7 +8,7 @@ base04: "B2CCD6" # Dark Foreground (Used for status bars)
 base05: "EEFFFF" # Default Foreground, Caret, Delimiters, Operators - White (7)
 base06: "EEFFFF" # Light Foreground (Not often used)
 base07: "ffffff" # Light Background (Not often used) - Bright White (F)
-base08: "E54B4B" # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted - Red (1)
+base08: "ed6565" # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted - Red (1)
 base09: "F78C6C" # Integers, Boolean, Constants, XML Attributes, Markup Link Url
 base0A: "FAED70" # Classes, Markup Bold, Search Text Background - Yellow (3)
 base0B: "C3E88D" # Strings, Inherited Class, Markup Code, Diff Inserted - Green (2)
